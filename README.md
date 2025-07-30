@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharath</h1>
-<h3 align="center">A B-Tech student at college of engineering perumon.</h3>
+<h3 align="center">A B-Tech student and Tech enthuasist who loves to explore AIs.</h3>
 
 - 🌱 I’m currently learning **React, Machine Learning, and Cyber security**
 
